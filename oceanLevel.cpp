@@ -1,5 +1,5 @@
 /*
-Author: Nika Siriban
+Author: Qwuzo
 Date: 15/07/2026
 Purpose: Calculate the rise of the ocean in the following years: 5, 7, and 10
 */
